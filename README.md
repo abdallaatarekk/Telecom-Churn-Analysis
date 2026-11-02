@@ -5,7 +5,6 @@
 
 A telecom company lost **1,796 of 6,687 customers (about 27%)**. This project finds who leaves and why, then turns the findings into retention actions.
 
-![Churn dashboard](Dashboard.png)
 
 <!-- TIP: re-export the dashboard at full-screen resolution. The current image is 849 x 445. -->
 
