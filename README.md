@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Data Cleaning](https://img.shields.io/badge/Data-Cleaning%20%26%20Profiling-0F766E)
-
+![Churn dashboard](Dashboard.png)
 A telecom company lost **1,796 of 6,687 customers (about 27%)**. This project finds who leaves and why, then turns the findings into retention actions.
 
 
